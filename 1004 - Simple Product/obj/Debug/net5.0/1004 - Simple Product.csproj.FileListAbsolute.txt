@@ -1,0 +1,16 @@
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\bin\Debug\net5.0\1004 - Simple Product.exe
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\bin\Debug\net5.0\1004 - Simple Product.deps.json
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\bin\Debug\net5.0\1004 - Simple Product.runtimeconfig.json
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\bin\Debug\net5.0\1004 - Simple Product.runtimeconfig.dev.json
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\bin\Debug\net5.0\1004 - Simple Product.dll
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\bin\Debug\net5.0\1004 - Simple Product.pdb
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.csproj.AssemblyReference.cache
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.AssemblyInfoInputs.cache
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.AssemblyInfo.cs
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.csproj.CoreCompileInputs.cache
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.dll
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\refint\1004 - Simple Product.dll
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.pdb
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\1004 - Simple Product.genruntimeconfig.cache
+C:\Users\andyg\OneDrive\Documents\Beecrowd\1004 - Simple Product\obj\Debug\net5.0\ref\1004 - Simple Product.dll
