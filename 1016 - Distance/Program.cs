@@ -6,7 +6,8 @@ namespace _1016___Distance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int distancia = int.Parse(Console.ReadLine());
+            Console.WriteLine("{0} minutos", distancia * 2);
         }
     }
 }
